@@ -1,0 +1,169 @@
+{
+  "names": {
+    "sender": "Priyuu",
+    "receiver": "Ajjuu"
+  },
+  "theme": {
+    "primaryColor": "#b10a01",
+    "secondaryColor": "#d6493f",
+    "accentColor": "fc897d",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my LOVE?",
+    "subtitle": "Rendula Onnu Parkalam. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 En Thangame Ajjuvee!!! ",
+    "successSubtitle": "LOVE YOU AJJUU 💖❤️😘",
+    "giftsTitle": "💝 En thangathuku 💝",
+    "giftsSubtitle": "Click here for the gifts, Ajjuuu Kutty",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "letterTitle": "To my Panda I Love most!❤️",
+    "photosTitle": "Soon with You!📸",
+    "prosConsTitle": "Why You Should Choose me as Your Wifeyy & GirlFriend ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {   
+	"mainBearGif": "gifs/priya.gif",
+    "FMGif": "gifs/FM.gif",
+    "loveGif": "gifs/love.gif",
+    "hugGif": "gifs/hug.gif",
+    "watchcricGif": "gifs/watchcric.gif",
+    "playcricGif": "gifs/playcric.gif",
+    "singGif": "gifs/sing.gif",
+    "childGif": "gifs/child.gif",
+    "loveGif": "gifs/love.gif",
+    "FMGif": "gifs/FM.gif",
+    "HugGif": "gifs/hug.gif",
+    "leftButton": "gifs/left-button.png",
+    "rightButton": "gifs/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "gift/gift1.jpg",
+    "gift2": "gift/gift2.jpg", 
+    "gift3": "gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "couple_photo/kiss.jpeg",
+      "caption": "Ummmaaaaa"
+    },
+    {
+      "image": "couple_photo/hug.jpeg", 
+      "caption": "Hugging my Panda"
+    },
+    {
+      "image": "couple_photo/mine.jpeg",
+      "caption": "Our heart-to-heart talks"
+    },
+    {
+      "image": "couple_photo/classic.jpeg",
+      "caption": "My safest Place"
+    },
+    {
+      "image": "couple_photo/love.jpeg",
+      "caption": "Chelloooo"
+    },
+    {
+      "image": "couple_photo/US.jpg",
+      "caption": "Bun Kutties Anime"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "gifs/FM.gif",
+      "text": " Non stop FM Radio to keep you engaged"
+    },
+    {
+      "gif": "gifs/love.gif", 
+      "text": "Unlimited Love and care"
+    },
+    {
+      "gif": "gifs/hug.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+	{
+      "gif": "gifs/watchcric.gif",
+      "text": "From Watching cricket"
+    },
+    {
+      "gif": "gifs/playcric.gif",
+      "text": " to playing cricket "
+    },
+    {
+      "gif": "gifs/sing.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Un Per Solla Aasaithan",
+      "duration": "5:09",
+      "album": "Minsara Kanna",
+      "artist": "Vijay",
+      "cover": "album-covers/minsarakanna.jpg",
+      "audio": "songs/UnPerSollaAasaithan.mp3"
+    },
+    {
+      "id": 2,	
+      "title": "Selfie Pulla",
+      "duration": "4:51", 
+      "album": "Kaththi",
+      "artist": "Vijay",
+      "cover": "album-covers/kaththi.jpg",
+      "audio": "songs/SelfiePulla.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Ennavo Ennavo",
+      "duration": "04:52",
+      "album": "Priyamanavale",
+      "artist": "",
+      "cover": "album-covers/Priyamanavale.jpg",
+      "audio": "songs/EnnavoEnnavo.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Kaadhal Solvadhu",
+      "duration": "4:35",
+      "album": "Badri",
+      "artist": "",
+      "cover": "album-covers/badri.jpg",
+      "audio": "songs/KaadhalSolvadhu.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Yaradhu Yaradhu",
+      "duration": "4:27",
+      "album": "Kaavalan",
+      "artist": "",
+      "cover": "album-covers/Kaavalan.jpg",
+      "audio": "songs/YaradhuYaradhu.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Ajjuuveee,",
+    "content": [
+      "I fell for you in a way I never expected, and now every day feels brighter just because you're in it.",
+      "Loving you comes so naturally. It's in your smile, your laugh, and the comfort I feel whenever I'm with you.",
+      "You are my favorite part of every moment, and the best thing that ever happened to me."
+    ],
+    "signature": "Forever yours,\nPriyyuuu"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
